@@ -1,0 +1,40 @@
+{
+  "name": "medium-04_rest-api",
+  "version": "1.0.0",
+  "description": "This project is made to provide sample code for a medium article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaj805/medium-04_rest-api.git"
+  },
+  "keywords": [
+    "medium",
+    "node",
+    "node.js",
+    "express",
+    "mongo",
+    "pankaj"
+  ],
+  "author": "Pankaj Panigrahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankaj805/medium-04_rest-api/issues"
+  },
+  "homepage": "https://github.com/pankaj805/medium-04_rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-es2017": "^6.9.0",
+    "babel-plugin-transform-async-to-generator": "^6.16.0",
+    "babel-plugin-transform-async-to-module-method": "^6.16.0",
+    "babel-plugin-transform-object-rest-spread": "^6.8.0",
+    "babel-plugin-transform-regenerator": "^6.16.1"
+  }
+}
